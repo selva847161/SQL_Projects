@@ -1,48 +1,63 @@
 # SQL_Projects
 SQL_Projects Description
-This repository contains real-world SQL data analysis projects that showcase my ability to:
+1. Merchant Interchange Finance Analysis
 
-Write complex SQL queries
+Objective:
+Analyze merchant transaction data to understand revenue patterns, transaction volumes, and interchange fee behavior.
 
-Perform data cleaning & transformation
+Key Highlights:
 
-Use joins, subqueries & CTEs
+Calculated total revenue and transaction metrics
 
-Apply aggregations & window functions
+Identified top-performing merchants
 
-Solve business problems using data
+Analyzed monthly transaction trends
+
+Used complex joins, subqueries, and aggregations
+
+Skills Used:
+Joins | CTEs | Window Functions | Aggregations | Date Functions
+
+2. India Elections Data Analysis
+
+Objective:
+Explore election data to identify voting patterns, winning margins, and party-wise performance.
+
+Key Highlights:
+
+Party-wise seat distribution
+
+State-wise performance comparison
+
+Margin of victory analysis
+
+Ranking candidates using window functions
+
+Skills Used:
+Group By | Ranking | Conditional Logic | Analytical Functions
+
+3. Drug Data Analysis
+
+Objective:
+Analyze pharmaceutical data to understand drug effectiveness, sales trends, and category performance.
+
+Key Highlights:
+
+Category-wise drug performance
+
+Sales trend analysis
+
+Top-selling drugs identification
+
+Data filtering and optimization
+
+Skills Used:
+Filtering | Subqueries | Aggregations | Performance Optimization
 
 🛠 Tools & Technologies
 
-SQL Server
+SQL (MySQL / PostgreSQL compatible)
 
-MySQL
+GitHub
 
-PostgreSQL
-
-Git & GitHub
-
-📂 Projects
-1️⃣ Drug Sales Analysis
-
-File: drug_analysis.sql
-
-Business Objective:
-Analyze drug sales data to identify:
-
-Top-selling products
-
-Revenue trends
-
-Regional performance
-
-SQL Concepts Used:
-
-JOINs
-
-GROUP BY
-
-CASE statements
-
-Window functions
-
+Data Analysis Techniques
